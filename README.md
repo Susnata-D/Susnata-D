@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Susnata-D/Portfolio-website](https://github.com/Susnata-D/Portfolio-website)
 
-- 💬 Ask me about **Competetive Programming,Data Structures & Algorithms,Web Development**
+- 💬 Ask me about **Competitive Programming,Data Structures & Algorithms,Web Development**
 
 - 📫 How to reach me **susnatadas76@gmail.com**
 
